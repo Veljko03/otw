@@ -1,0 +1,8 @@
+The password for the next level is stored in a file called - located in the home directory
+
+command:
+cat ./-
+
+password: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx
+
+The most common way to access a file named - is to specify its current directory path. Adding ./ before the filename tells the system it is a file path rather than a flag
