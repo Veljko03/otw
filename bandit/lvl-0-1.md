@@ -8,3 +8,5 @@ bandit 0 is user name that connect on server [server-name] on port -p 2220
 password is in readme file accsesed by CAT command
 
 password: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+
+--sever name - bandit.labs.overthewire.org
